@@ -1,0 +1,12 @@
+.exe
+*.o
+*.out
+*.obj
+*.pdb
+
+.vscode/
+.idea/
+
+.tmp
+*.log
+token.txt
